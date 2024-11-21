@@ -12,10 +12,10 @@ This dashboard is designed for the analysis of survey data. The dataset includes
 ### Overview of steps followed:  
 
 1. Data Cleaning:
-- Converted figures from text to numerical formats to ensure precise aggregations andunified job titles and programming language information to maintain consistency.
+ - Converted figures from text to numerical formats to ensure precise aggregations andunified job titles and programming language information to maintain consistency.
 
 2. Data Transformation: 
-- Modified the data types for essential columns, including age, salary, and job title.
+ - Modified the data types for essential columns, including age, salary, and job title.
 
 3. Created calculated measures for key metrics such as "Average Salary" and "Happiness Score."
 
